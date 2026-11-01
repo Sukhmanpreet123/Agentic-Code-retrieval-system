@@ -28,9 +28,7 @@ Key capabilities:
 
 ### Flow Diagram
 
-<!-- Add the flow diagram image here, e.g. ![Project Flow](agentic_code_retrieval_flow.png) -->
-
-`[ Flow diagram placeholder ]`
+![Project Flow](agentic_code_retrieval_flow.png)
 
 ## Project Structure
 
@@ -90,9 +88,7 @@ Open http://localhost:8501 if the browser does not open automatically. Then:
 2. Type a question, for example *"how is the input validated?"*
 3. Expand any result to view the full function.
 
-<!-- Add an app screenshot here, e.g. ![App Screenshot](images/app_screenshot.png) -->
-
-`[ App screenshot placeholder ]`
+![App Screenshot](img1.png)
 
 ### Run the Demo
 
