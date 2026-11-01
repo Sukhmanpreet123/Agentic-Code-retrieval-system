@@ -1,0 +1,11 @@
+# Core (needed for everything, including the offline TF-IDF demo)
+numpy>=1.24
+scikit-learn>=1.3
+
+# Needed only when you switch to the REAL semantic embedder / cross-encoder
+# (see "SWITCH HERE" comments in demo.py and pipeline.py):
+sentence-transformers>=2.2
+
+# Needed only for eval/coir_eval.py (real CoIR Apps benchmark evaluation):
+datasets>=2.14
+streamlit>=1.30

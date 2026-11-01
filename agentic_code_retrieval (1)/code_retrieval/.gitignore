@@ -1,0 +1,29 @@
+# Virtual environments
+venv/
+ven/
+.venv/
+env/
+
+# Python cache / build files
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Downloaded datasets and model caches
+data/
+.cache/
+.huggingface/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Environment variables / secrets
+.env
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
