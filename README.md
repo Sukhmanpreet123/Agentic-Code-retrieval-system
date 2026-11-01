@@ -28,7 +28,7 @@ Key capabilities:
 
 ### Flow Diagram
 
-<!-- Add the flow diagram image here, e.g. ![Project Flow](images/flow.png) -->
+<!-- Add the flow diagram image here, e.g. ![Project Flow](agentic_code_retrieval_flow.png) -->
 
 `[ Flow diagram placeholder ]`
 
